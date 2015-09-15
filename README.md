@@ -13,7 +13,7 @@
 
 - 請確認您的電腦上已經安裝git
 - 進入任意合適的目錄
-- `clone https://github.com/bryanyang0528/ipython-pyspark-cineca.git`
+- `git clone https://github.com/bryanyang0528/ipython-pyspark-cineca.git`
 - `cd ipython-pyspark-cineca`
 - `docker build .`  此步驟將會開始建立docker images
 - `docker images`   確認新建立的images id (一個英數組合)
